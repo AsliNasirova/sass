@@ -1,0 +1,144 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.stylish{
+    background-image: url('https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg');
+    width: 220vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    .cotainer1{
+        position: absolute;
+    }
+h1{
+    // font-family: ;
+    font-size: 80px;
+    margin: 0px 0px 4px;
+}
+em{
+    font-size: 20px;
+    padding-left: 60px;
+}
+.btn1{
+    width: 170px;
+    height: 60px;
+    text-decoration: none;
+    color: white;
+    padding: 20px 180px;
+    font-size: 16px;
+    // font-family: ;
+}
+p{
+    font-size: 26px;
+    padding-left: 60px;
+}
+}
+
+#sehife2{
+    display: flex;
+    justify-content: center;
+    width: 220vh;
+    height: 40vh;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    .container2{
+        position: absolute;
+    }
+    h2{
+        font-size: 50px;
+        margin: 0px 0px 2px;
+        color: black;
+    }
+    p{
+        align-items: center;
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    }
+
+}
+#sehife3{
+    display: flex;
+    justify-content: center;
+    width: 220vh;
+    height: 40vh;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    background-color: aqua;
+    .container3{
+        position: absolute;
+    }
+    .hero{
+        display: flex;
+    }
+    .services{
+        text-align: center;
+    }
+    h3{
+        font-size: 50px;
+        margin: 0px 0px 2px;
+        color: black;
+    }
+    .responsive{
+       
+        text-align: center;
+        display: block;
+        font-size: 28px;
+    }
+    .icon{
+        background-color: #fff;
+        color: #1D809F;
+        height: 7rem;
+        width: 7rem;
+        display: block;
+        line-height: 7.5rem;
+        font-size: 2.25rem;
+        box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+    }
+}
+#callout{
+    display: flex;
+    justify-content: center;
+    width: 220vh;
+    height: 70vh;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    background-image: url('https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg');
+   
+    .container4{
+        position: absolute;
+    }
+    h2{
+        font-size: 50px;
+        margin: 0px 0px 2px;
+        color: black;
+    }
+
+}
+#portfolio{
+    display: flex;
+    justify-content: center;
+    width: 220vh;
+    height: 70vh;
+    flex-direction: row;
+    background-size: cover;
+    position: relative;
+    align-items: center;
+    .container5{
+        position: absolute;
+    }
+}

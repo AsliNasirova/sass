@@ -1,0 +1,146 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.stylish {
+  background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg");
+  width: 220vh;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  background-size: cover;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.stylish .cotainer1 {
+  position: absolute;
+}
+.stylish h1 {
+  font-size: 80px;
+  margin: 0px 0px 4px;
+}
+.stylish em {
+  font-size: 20px;
+  padding-left: 60px;
+}
+.stylish .btn1 {
+  width: 170px;
+  height: 60px;
+  text-decoration: none;
+  color: white;
+  padding: 20px 180px;
+  font-size: 16px;
+}
+.stylish p {
+  font-size: 26px;
+  padding-left: 60px;
+}
+
+#sehife2 {
+  display: flex;
+  justify-content: center;
+  width: 220vh;
+  height: 40vh;
+  flex-direction: row;
+  background-size: cover;
+  position: relative;
+  align-items: center;
+}
+#sehife2 .container2 {
+  position: absolute;
+}
+#sehife2 h2 {
+  font-size: 50px;
+  margin: 0px 0px 2px;
+  color: black;
+}
+#sehife2 p {
+  align-items: center;
+  display: block;
+  -webkit-margin-before: 1em;
+          margin-block-start: 1em;
+  -webkit-margin-after: 1em;
+          margin-block-end: 1em;
+  -webkit-margin-start: 0px;
+          margin-inline-start: 0px;
+  -webkit-margin-end: 0px;
+          margin-inline-end: 0px;
+}
+
+#sehife3 {
+  display: flex;
+  justify-content: center;
+  width: 220vh;
+  height: 40vh;
+  flex-direction: row;
+  background-size: cover;
+  position: relative;
+  align-items: center;
+  background-color: aqua;
+}
+#sehife3 .container3 {
+  position: absolute;
+}
+#sehife3 .hero {
+  display: flex;
+}
+#sehife3 .services {
+  text-align: center;
+}
+#sehife3 h3 {
+  font-size: 50px;
+  margin: 0px 0px 2px;
+  color: black;
+}
+#sehife3 .responsive {
+  text-align: center;
+  display: block;
+  font-size: 28px;
+}
+#sehife3 .icon {
+  background-color: #fff;
+  color: #1D809F;
+  height: 7rem;
+  width: 7rem;
+  display: block;
+  line-height: 7.5rem;
+  font-size: 2.25rem;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+#callout {
+  display: flex;
+  justify-content: center;
+  width: 220vh;
+  height: 70vh;
+  flex-direction: row;
+  background-size: cover;
+  position: relative;
+  align-items: center;
+  background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg");
+}
+#callout .container4 {
+  position: absolute;
+}
+#callout h2 {
+  font-size: 50px;
+  margin: 0px 0px 2px;
+  color: black;
+}
+
+#portfolio {
+  display: flex;
+  justify-content: center;
+  width: 220vh;
+  height: 70vh;
+  flex-direction: row;
+  background-size: cover;
+  position: relative;
+  align-items: center;
+}
+#portfolio .container5 {
+  position: absolute;
+}/*# sourceMappingURL=main.css.map */
